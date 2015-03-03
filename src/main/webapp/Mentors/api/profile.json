@@ -1,0 +1,9 @@
+[
+  {
+    "uid": 1,
+    "text" : "Have you heard about the Web Components revolution?",
+    "username" : "Lakshman",
+    "avatar" : "../images/avatar-01.svg",
+    "favorite": false
+  }
+]
